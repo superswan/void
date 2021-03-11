@@ -1,5 +1,14 @@
-<h2 align="center">void</h2>
+## void 
 
 **about**
 
-a simple dark blog theme for hugo, use as you like!
+Fork of tek256's hugo theme. A nice and simple dark theme.
+
+## installation
+Clone to ```<site>/themes``` directory
+
+```git clone https://github.com/superswan/void.git```
+
+Set theme in configuration file
+
+```theme = "void"```
